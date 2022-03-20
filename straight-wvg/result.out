@@ -1,0 +1,16 @@
+-----------
+Initializing structure...
+Working in 2D dimensions.
+Computational cell is 16 x 8 x 0 with resolution 10
+     block, center = (0,0,0)
+          size (1e+20,1,1e+20)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+time for choose_chunkdivision = 0.00031805 s
+time for set_epsilon = 0.0082798 s
+-----------
+creating output file "./straight-waveguide-eps-000000.00.h5"...
+creating output file "./straight-waveguide-ez-000200.00.h5"...
+run 0 finished at t = 200.0 (4000 timesteps)
+
+Elapsed run time = 0.598226 s
